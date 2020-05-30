@@ -14,6 +14,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="Data\baltimore-city-employee-salaries-fy2019-1.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="Data\SalaryData.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
